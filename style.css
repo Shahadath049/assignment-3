@@ -1,3 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.banner-area {
+    filter: brightness(50%);
+}
+.carousel-caption {
+    top: 150px;
+    bottom: auto;
+}
