@@ -4,3 +4,10 @@ body{
 .banner-area {
     filter: brightness(50%);
 }
+.all-text{
+   color: #289BDE;
+}
+.new ,.get-button{
+    background-color: #289BDE;
+}
+
